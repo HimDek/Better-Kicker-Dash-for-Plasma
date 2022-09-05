@@ -37,7 +37,7 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
 
 * Linux based Operating System
 * [KDE Plasma Desktop Environment](https://kde.org/plasma-desktop/)
-* [Simple Kickoff for Plasma](https://himdek.com/Simple-Kickoff-for-Plasma)
+* [Better Kicker for Plasma](https://himdek.com/Better-Kicker-for-Plasma)
 
 <h1 align="center">Get it from</h1>
 

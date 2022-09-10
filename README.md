@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://himdek.com/Simple-Kickoff-for-Plasma/"><h1 align="center">Better Kicker Dash</h1></a>
+ <a href="https://himdek.com/Better-Kicker-Dash-for-Plasma/"><h1 align="center">Better Kicker Dash</h1></a>
  <p align="center">An improved fork of KDE Plasma's Kicker Dash</p>
 </p>
 
@@ -41,7 +41,11 @@ The search bar uses `Plasma Search`, which is the same search provider used in K
 
 <h1 align="center">Get it from</h1>
 
-<p align="center">Coming soon</p>
+<p align="center">
+  <a href="https://www.pling.com/p/1897990"><img height="50px" src="https://img.shields.io/badge/Pling%20Store-informational?style=for-the-badge&color=orange" /></a>
+  <a href="https://store.kde.org/p/1897990"><img height="50px" src="https://img.shields.io/badge/KDE%20Store-informational?style=for-the-badge&logo=KDE" /></a>
+  <a href="https://www.opendesktop.org/p/1897990"><img height="50px" src="https://img.shields.io/badge/openDesktop-informational?style=for-the-badge&color=blueviolet" /></a>
+</p>
 
 <p align="center">or</p>
 
